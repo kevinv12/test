@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Duplicati.Library.Logging</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>d10a5fc0-11b4-4e70-86aa-8aea52bd9798</ProjectGuid>
+  <FullPath>C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Duplicati.Library.Logging.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\bin\Debug\Duplicati.Library.Logging.dll.RoslynCA.json|C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\bin\Debug\Duplicati.Library.Logging.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

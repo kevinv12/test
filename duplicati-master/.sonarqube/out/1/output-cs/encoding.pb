@@ -1,0 +1,12 @@
+p
+gC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\ILogDestination.csutf-8x
+oC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Properties\AssemblyInfo.csutf-8u
+lC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\StreamLogDestination.csutf-8f
+]C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Timer.csutf-8i
+`C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogScope.csutf-8d
+[C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Log.csutf-8k
+bC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\ILogFilter.csutf-8m
+dC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogTagFilter.csutf-8i
+`C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogEntry.csutf-8n
+eC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LambdaSupport.csutf-8r
+iC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\RepeatingLogScope.csutf-8

@@ -1,0 +1,13 @@
+i
+gC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\ILogDestination.csq
+oC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Properties\AssemblyInfo.csn
+lC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\StreamLogDestination.cs_
+]C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Timer.csb
+`C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogScope.cs]
+[C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\Log.csd
+bC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\ILogFilter.csf
+dC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogTagFilter.csb
+`C:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LogEntry.csg
+eC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\LambdaSupport.csk
+iC:\Users\Kevin\Downloads\duplicati-master\duplicati-master\Duplicati\Library\Logging\RepeatingLogScope.csV
+RC:\Users\Kevin\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cs
